@@ -1,1 +1,0 @@
-export const camundaUrl = process.env.CAMUNDA_URL;
